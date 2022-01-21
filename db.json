@@ -6,6 +6,92 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "$2a$10$vH5LPcafeoibTPp.lsLYi.Bj.gqSJszXWxkFBDYa1EPrfAjI4w4QC",
+      "name": "John",
+      "id": 2
+    },
+    {
+      "email": "mary@gmail.com",
+      "password": "$2a$10$AICcvZG7RMEyXK2.CdAiseLo0VvFH5iuqI0VU7zjWxlqm2uonfY7y",
+      "name": "Mary",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Hamburguer",
+      "category": "hamburguer",
+      "price": 10.9,
+      "img": "https://i.pinimg.com/564x/a6/21/d5/a621d57fcf0bf2387c13b002d93280ea.jpg",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "name": "Strawberry Cake",
+      "category": "cake",
+      "price": 10.9,
+      "img": "https://i.pinimg.com/564x/aa/ed/5f/aaed5f7c9a80c10bd7162651e5c2e3ce.jpg",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "name": "Donuts",
+      "category": "cake",
+      "price": 5.9,
+      "img": "https://i.pinimg.com/564x/ce/8f/bf/ce8fbfb09256bff7bf18fc9fc0f6f9af.jpg",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "name": "Hot Dog",
+      "category": "sandwiches",
+      "price": 8.9,
+      "img": "https://i.pinimg.com/564x/9e/8a/cb/9e8acb0cfbb806267522ebe74409699f.jpg",
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "name": "Pizza",
+      "category": "pizza",
+      "price": 5.9,
+      "img": "https://i.pinimg.com/564x/6b/51/c6/6b51c6856d9b08194979f969b1236290.jpg",
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "name": "Cheese Burguer",
+      "category": "sandwiches",
+      "price": 5.9,
+      "img": "https://i.pinimg.com/564x/de/e6/81/dee6813371158add8a14fa7a976cd0b0.jpg",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "name": "Combo Burguer",
+      "category": "sandwiches",
+      "price": 25.9,
+      "img": "https://i.pinimg.com/564x/97/6b/9d/976b9d7e2335c223ceeb976132ed2286.jpg",
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "MilkShake",
+      "category": "drinks",
+      "price": 13.9,
+      "img": "https://i.pinimg.com/564x/43/55/e5/4355e59697e3400e4bdc2c06037fdd9f.jpg",
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Ice Cream",
+      "category": "ice cream",
+      "price": 5.9,
+      "img": "https://i.pinimg.com/564x/0c/f8/b5/0cf8b5a2fae40c89425e9f87700ccba7.jpg",
+      "userId": 3,
+      "id": 9
     }
   ]
 }
