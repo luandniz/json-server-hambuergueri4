@@ -11,7 +11,10 @@ app.db = router.db;
 const rules = auth.rewriter({
   users: 600,
   products: 644,
+  userCart: 640,
 });
+// O usuário deve possuir o recurso para gravar o rescurso.
+// Todos podem ler
 
 app.use(cors());
 app.use(rules);

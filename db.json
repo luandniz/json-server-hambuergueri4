@@ -20,6 +20,7 @@
       "id": 3
     }
   ],
+  "userCart": [],
   "products": [
     {
       "name": "Hamburguer",
@@ -92,6 +93,14 @@
       "img": "https://i.pinimg.com/564x/0c/f8/b5/0cf8b5a2fae40c89425e9f87700ccba7.jpg",
       "userId": 3,
       "id": 9
+    },
+    {
+      "name": "Pancake",
+      "category": "pancake",
+      "price": 7.9,
+      "img": "https://i.pinimg.com/564x/cb/4f/4d/cb4f4de2ed505101f0d668f3b7346eb2.jpg",
+      "userId": 3,
+      "id": 10
     }
   ]
 }
